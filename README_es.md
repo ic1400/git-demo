@@ -7,3 +7,5 @@ Para obtener más información sobre esta herramienta, consulte la documentació
 ## Primeros pasos
 
 Para obtener una copia local y ejecutarla, siga estos sencillos pasos.
+
+### Prerrequisitos
